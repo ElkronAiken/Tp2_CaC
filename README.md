@@ -1,3 +1,4 @@
-# CaC-Java-Fullstack-C1
+# Trabajo Práctico 2    
 
-## Repositorio que contiene los temas a tratar en las clases del curso Codo a Codo - Java Fullstack 2022 (Comisión 22030)
+## Juan Mauricio van der Wildt
+
